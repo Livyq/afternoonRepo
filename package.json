@@ -1,0 +1,22 @@
+{
+  "name": "studentmanagesys",
+  "version": "1.0.0",
+  "description": "HELLO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Livyq/afternoonRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Livyq/afternoonRepo/issues"
+  },
+  "homepage": "https://github.com/Livyq/afternoonRepo#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
